@@ -19,6 +19,7 @@
                     -w WORDLIST, --wordlist WORDLIST ->  Enter File Wordlist Passwords
                         
                     -v VERSION, --version VERSION ->  Put OK To Print Version & exit
+           example : python3 decoder_hashs.py -a md5 -H 54c3426aff66106f17d6bc0d50f1c9aa -w wordlist.txt
 # Contact Me :
        facebook:awbx.king.9
        
